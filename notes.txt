@@ -3,6 +3,3 @@ Git is a distributed version control system that tracks changes in source code. 
 GitHub is a code hosting platform built off Git that provides a single place for developers and teams to store, manage, and share code repos online.
 
 Branching allows developers to diverge from the main line of development to work on new features, fix bugs, etc without affecting the main code. Once the branched code is complete, it can be merged back into the main branch.
-
-Collaboration: Pull Requests in GitHub
-Each pull request is an attempt to merge a branch into main, where the currently accepted version of the codebase is held. Collaborators in a repo are able to submit PRs to be reviewed and merged by the owner of the repo. 
