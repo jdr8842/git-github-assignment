@@ -1,0 +1,3 @@
+Git is a distributed version control system that tracks changes in source code. It works by taking a snapshot of the code every time it is saved.
+
+GitHub is a code hosting platform built off Git that provides a single place for developers and teams to store, manage, and share code repos online.
